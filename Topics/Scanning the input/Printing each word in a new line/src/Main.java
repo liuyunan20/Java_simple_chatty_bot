@@ -3,7 +3,7 @@ import java.util.Scanner;
 class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        String st1, st2, st3, st4, st5, st;
+        String st1, st2, st3, st4, st5;
         st1 = scanner.next();
         st2 = scanner.next();
         st3 = scanner.next();
